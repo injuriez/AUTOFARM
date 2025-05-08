@@ -1,0 +1,18 @@
+{
+    "Name": "COIN FARM",
+    "Description": "Farm Coins and Tickets and Bubbles!",
+    "Author": "Rushi",
+    "Version": "1.0",
+    "Image": "https://i.ibb.co/rKPwGPWg/image-2025-05-08-005904434.png",
+    "Tags": {
+        "Resolution": "1920x1080",
+        "Type": "AHK"
+    },
+    "Main": "main.ahk",
+    "MangoID": "MangoGuardsBubble15",
+    "BigThumbnail": "https://i.ibb.co/gLRxtYS4/New-Project-18.png"
+    
+
+    
+}
+
