@@ -1,18 +1,15 @@
 {
-    "Name": "COIN FARM",
-    "Description": "Farm Coins and Tickets and Bubbles!",
-    "Author": "Rushi",
+    "Name": "AUTOFARM",
+    "Description": "No description provided",
+    "Author": "injuriez",
     "Version": "1.0",
-    "Image": "https://i.ibb.co/rKPwGPWg/image-2025-05-08-005904434.png",
+    "Image": "https://i.ibb.co/mVyGhDHn/mango-1.png",
     "Tags": {
-        "Resolution": "1920x1080",
+        "Resolution": "Full Res Support",
         "Type": "AHK"
     },
     "Main": "main.ahk",
-    "MangoID": "MangoGuardsBubble15",
-    "BigThumbnail": "https://i.ibb.co/gLRxtYS4/New-Project-18.png"
-    
-
-    
+    "MangoID": "Mango-fvu0e5",
+    "bigthumbnail": "https://i.postimg.cc/h4Y1mmXF/New-Project-14.png",
+    "Game": "AnimeLastStand"
 }
-
